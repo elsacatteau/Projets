@@ -18,4 +18,17 @@
   - Etude de l’équation de convection-diffusion 
   - Validation des résultats numériques par comparaison avec la solution exacte
   - Analyse des erreurs pour évaluer la précision
-
+### Modélisation du stockage du dioxyde de carbone dans les forêts
+- Langage : Python
+- Objectif : modéliser les échanges de carbone dans les écosystèmes forestiers à l’aide d’un système 
+d’équations différentielles (donné) et de résoudre ce modèle
+### Modèle de régression linéaire
+- Langage : R
+- Objectif : Implémenter et analyser des modèles de régression linéaire simple et multiple en R
+### Traitement de données
+- Langage : Python
+- Objectif : Quels sont les facteurs qui ont une influencent sur la popularité d’une musique ?
+### Machine Learning 
+- Langage : Python
+- Objectif : Concevoir et optimiser un système de reconnaissance de chiffres manuscrits en comparant
+ différentes approches de machine learning
