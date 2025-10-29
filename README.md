@@ -32,3 +32,6 @@ d’équations différentielles (donné) et de résoudre ce modèle
 - Langage : Python
 - Objectif : Concevoir et optimiser un système de reconnaissance de chiffres manuscrits en comparant
  différentes approches de machine learning
+### Open Data : Tourisme en train
+- Langage : Python
+- Objectif : Création d'une carte intéractive qui montre les différents trajets en TGV possible à partir d'une ville donnée
