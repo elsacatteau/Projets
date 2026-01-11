@@ -9,7 +9,7 @@
 - Langage : Python
 - Objectif : Utiliser différentes méthodes pour résoudre des systèmes linéaires en grande dimension
 - Méthodes utilisées : Jacobi, Gauss-Seidel, SOR (Successive Over-Relaxation)
-### Compression d’images par transform´ee de Fourier
+### Compression d’images par transformée de Fourier
 - Langage : Python
 - Objectif : Lire une image, la compresser et la décompresser en utilisant la transformée de Fourier
 ### Introduction aux EDP 
