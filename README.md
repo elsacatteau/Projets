@@ -35,7 +35,7 @@ d’équations différentielles (donné) et de résoudre ce modèle
 ### Open Data : Tourisme en train
 - Langage : Python
 - Objectif : Création d'une carte intéractive qui montre les différents trajets en TGV possible à partir d'une ville donnée
-### Testing Climate Change Strategies Through Simulation
+### Tester des stratégies de lutte contre le changement climatique à l’aide de simulations
 - Outils : En-ROADS simulator
 - Objectif : Étudier l’impact de différentes politiques climatiques sur l’évolution de la température mondiale
 ### Traitement de données sur la prédiction du diabète
