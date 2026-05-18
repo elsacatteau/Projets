@@ -4,12 +4,12 @@
 - Objectif : Etude de l’influence du matériel utilisé par un joueur de badminton sur la trajectoire du volant
 - Année : 2024
 - Ecole : Lycée Henri Wallon, CPGE MP, Valenciennes
-## Projets MAM3 (2025)
+## Projets Mathématiques Appliquées et Modélisation
 ### Système linéaire en grande dimension
 - Langage : Python
 - Objectif : Utiliser différentes méthodes pour résoudre des systèmes linéaires en grande dimension
 - Méthodes utilisées : Jacobi, Gauss-Seidel, SOR (Successive Over-Relaxation)
-### Compression d’images par transform´ee de Fourier
+### Compression d’images par transformée de Fourier
 - Langage : Python
 - Objectif : Lire une image, la compresser et la décompresser en utilisant la transformée de Fourier
 ### Introduction aux EDP 
@@ -20,14 +20,14 @@
   - Analyse des erreurs pour évaluer la précision
 ### Modélisation du stockage du dioxyde de carbone dans les forêts
 - Langage : Python
-- Objectif : modéliser les échanges de carbone dans les écosystèmes forestiers à l’aide d’un système 
+- Objectif : Modéliser les échanges de carbone dans les écosystèmes forestiers à l’aide d’un système 
 d’équations différentielles (donné) et de résoudre ce modèle
 ### Modèle de régression linéaire
 - Langage : R
 - Objectif : Implémenter et analyser des modèles de régression linéaire simple et multiple en R
-### Traitement de données
+### Analyse et traitement de données musicales
 - Langage : Python
-- Objectif : Quels sont les facteurs qui ont une influencent sur la popularité d’une musique ?
+- Objectif : Étudier les facteurs influençant la popularité d’une musique.
 ### Machine Learning 
 - Langage : Python
 - Objectif : Concevoir et optimiser un système de reconnaissance de chiffres manuscrits en comparant
@@ -35,3 +35,9 @@ d’équations différentielles (donné) et de résoudre ce modèle
 ### Open Data : Tourisme en train
 - Langage : Python
 - Objectif : Création d'une carte intéractive qui montre les différents trajets en TGV possible à partir d'une ville donnée
+### Tester des stratégies de lutte contre le changement climatique à l’aide de simulations
+- Outils : En-ROADS simulator
+- Objectif : Étudier l’impact de différentes politiques climatiques sur l’évolution de la température mondiale
+### Traitement de données sur la prédiction du diabète
+- Langage : R
+- Objectif : Déterminer quels sont les facteurs de la vie quotidienne qui influencent le diabète
