@@ -41,7 +41,7 @@ d’équations différentielles (donné) et de résoudre ce modèle
 ### Traitement de données sur la prédiction du diabète
 - Langage : R
 - Objectif : Déterminer quels sont les facteurs de la vie quotidienne qui influencent le diabète
-### Stage : Optimisation de réseaux électriques
+### Stage : Optimisation des réseaux électriques
 - Sujet : Amélioration de la capacité d’accueil des systèmes photovoltaïques en tenant compte des systèmes de stockage d’énergie par batterie (BESS) pour les réseaux de distribution
 - Langage : GAMS, Python, MATLAB
 - Objectif :
