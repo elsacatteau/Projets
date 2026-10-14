@@ -41,3 +41,10 @@ d’équations différentielles (donné) et de résoudre ce modèle
 ### Traitement de données sur la prédiction du diabète
 - Langage : R
 - Objectif : Déterminer quels sont les facteurs de la vie quotidienne qui influencent le diabète
+### Stage : Optimisation de réseaux électriques
+- Sujet : Amélioration de la capacité d’accueil des systèmes photovoltaïques en tenant compte des systèmes de stockage d’énergie par batterie (BESS) pour les réseaux de distribution
+- Langage : GAMS, Python, MATLAB
+- Objectif :
+  * Modélisation et optimisation multi-périodes (GAMS) d'un réseau basse tension avec stockage par batterie (BESS).
+  * Déploiement d'algorithmes de Machine Learning (Python) pour la prévision de séries temporelles solaires.
+  * Traitement statistique, analyse quantitative et validation des résultats sous MATLAB.
